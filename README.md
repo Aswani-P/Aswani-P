@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aswani-P
-- 👀 I’m interested in .software development,machine learning,reading and dancing..
+- 👀 I’m interested in .software development,machine learning,reading📚 and dancing.💃.
 - 🌱 I’m currently pusuing Bachelores Technology in Government Egineering College Wayanad.
 - 💞️ I’m looking to collaborate on company and other developing teams.
 - 📫 How to reach me via aswanianup2000@gmail.com .
