@@ -1,5 +1,5 @@
 ```console
-aswani-p@github:~$ ./welcome.sh
+trykatchup@github:~$ ./welcome.sh
 ```
 
 ```
@@ -11,31 +11,27 @@ aswani-p@github:~$ ./welcome.sh
             (__)\       )\/\
                 ||----w |
                 ||     ||
-
 ```
 
-<img align="left" src="./cropped.jpg" width="320" /> 
+<img align="left" src="./cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
 ```
-aswani-p@github
+trykatchup@github
 -------------------------
-🏫 BTech Computer engineering student from @ Gecw
-🔎 Main interests in Web developmet
-🔭 Working on my github profile 😜
-🌱 Learning about backend programming and database.
-🌟 Main languages: Python, C, C# 
-🏴‍☠️ Currently involved in personal projects.
-💖 In a complicated relationship with VSCode
-🖌️ Love dancing classical and western, reading, sleeping
-
-```
-<!-- 
+🏫 MsC Computer engineering student @Unibo
+🔎 Main interests in AI & Cybersec
+🔭 Working on Deep Learning based cybersecurity solutions
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, C/C++, Java 
+🏴‍☠️ Currently involved in CTF competitions and sysadmin tasks
 🚩 Interested in network security and web security
+💖 In a complicated relationship with Suricata IDS
+🖌️ Love drawing portraits and cute stuff, cycling, going to concerts
 🎵 Love metal, rock, jazz and blues
 ⚡ Love ketchup (but not on pasta or pizza) 🍅
-💻 Total commits: 5959
-⭐ Total stars gained: 158 
--->
+💻 Total commits: {{ COMMITS }}
+⭐ Total stars gained: {{ STARS }}
+```
 
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -47,11 +43,11 @@ aswani-p@github
 </p>
 
 ```console
-aswani-p@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
+trykatchup@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
 ```
 
 ```
-[sudo] Password for aswani-p:
+[sudo] Password for trykatchup:
 
 CATching bugs in code...
                               
