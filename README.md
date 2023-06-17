@@ -19,7 +19,7 @@ aswani-p@github:~$ ./welcome.sh
 ```
 aswani-p@github
 -------------------------
-🏫 BTech Computer engineering student from @ Gecw
+🏫 BTech Computer Science and engineering student from @ Gecw
 🔎 Main interests in Web developmet
 🔭 Working on my github profile 😜
 🌱 Learning about backend programming and database.
